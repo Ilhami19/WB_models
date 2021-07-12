@@ -1,3 +1,3 @@
 # WB_models
 
-## ER_Modelle//MySQL-Workbanch
+## ER-Modelle//mySQL-Workbench
